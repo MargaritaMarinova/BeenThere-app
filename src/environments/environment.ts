@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  const firebaseConfig = {
+    apiKey: "AIzaSyAXVmCyoZLQ4UJj_ICC-eho6OVVBiUZZ7g",
+    authDomain: "beenthere-da971.firebaseapp.com",
+    databaseURL: "https://beenthere-da971.firebaseio.com",
+    projectId: "beenthere-da971",
+    storageBucket: "beenthere-da971.appspot.com",
+    messagingSenderId: "1066060941607",
+    appId: "1:1066060941607:web:cc2e047e285a581195c102"
+  };
 };
 
 /*
